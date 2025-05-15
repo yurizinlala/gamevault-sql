@@ -42,7 +42,7 @@ O link com o vídeo explicativo para mostrar o projeto em ação:
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/gamevault-atividade3.git
+   git clone https://github.com/seu-usuario/gamevault-sql.git
    cd gamevault-atividade3
    ```
 2. **Instale as dependências do back-end**
